@@ -2,9 +2,9 @@
 title: Week of Year
 version: 2.0.0
 signature: |
-  moment().week(Number);
+  moment().week(Number|String);
   moment().week(); // Number
-  moment().weeks(Number);
+  moment().weeks(Number|String);
   moment().weeks(); // Number
 ---
 
